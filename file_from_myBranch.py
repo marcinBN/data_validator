@@ -1,12 +1,4 @@
 #new file
 
-#new entry from my_branch from another machine
+#new functionality will be implemented in new_func.py
 
-#jajko
-#tuńczyk
-
-#omlet
-
-
-
-#kanapka
