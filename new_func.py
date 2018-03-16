@@ -4,3 +4,5 @@ def new_func():
 
 	
 #added from machine2
+
+#added from machine1
