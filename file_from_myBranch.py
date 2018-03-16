@@ -1,3 +1,3 @@
-#new file
-
-#new functionality implemented in new_func.py
+#
+#
+# changes to main func from branch from machine 1
