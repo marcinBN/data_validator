@@ -1,6 +1,5 @@
-#new file
+#_edited_new file_edited
 
-#new functionality implemented in new_func.py
 
 #implementing main functionality is proceeding
 #... it goes on and on
